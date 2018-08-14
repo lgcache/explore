@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "react-app-rewire-less": "^2.1.2",
+    "react-app-rewired": "^1.5.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.0"
+  }
+}
